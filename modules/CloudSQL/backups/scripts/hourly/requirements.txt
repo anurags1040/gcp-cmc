@@ -1,0 +1,2 @@
+google_api_python_client==1.10.0
+protobuf==3.12.2
